@@ -50,4 +50,54 @@ print("Ola Mundo")
 Ola Mundo
 ```
 
+## variavel 
 
+nome da variel = valor 
+
+```python
+x = 10
+print(x)
+```
+### Resultado de ambas:
+```
+10
+```
+Ele printa o valor da variavel x que no caso e 10.
+
+# PRINT EM PYTHON:
+
+```python
+x = 10
+print(x)
+```
+### Resultado:
+```
+10
+```
+
+
+```python
+x = 10
+print('x')
+```
+### Resultado:
+```
+x
+```
+
+
+```python
+print("ola mundo")
+print("\n")
+print("\n")
+print('Estranho mundo')
+```
+### Resultado:
+```
+ola mundo
+
+
+
+
+Estranho mundo
+```
