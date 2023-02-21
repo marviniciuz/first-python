@@ -101,3 +101,26 @@ ola mundo
 
 Estranho mundo
 ```
+
+```python
+nome1 = 10
+nome2 = 2
+
+print(nome1 + nome2)
+```
+### Resultado:
+```
+12
+```
+
+
+```python
+nome1 = 10
+nome2 = 2
+
+print(nome1 + nome2 + 10)
+```
+### Resultado:
+```
+22
+```
