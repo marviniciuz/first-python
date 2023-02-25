@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="initial/images/Python-logo.png" height = "25%" width = "25%">
+<img src="initial/images/Python-logo.png" height = "20%" width = "20%">
 </p>
 
 # Estudos iniciais em python
