@@ -9,6 +9,3 @@ utilizo tambem da propia documentação da linguagem [Documentação do Python](
 *  vscode
 *  pycharm
 *  linux mint
-
-
-
