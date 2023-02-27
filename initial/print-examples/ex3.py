@@ -1,0 +1,1 @@
+print('\npython e bom demais')

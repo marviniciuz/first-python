@@ -1,0 +1,1 @@
+print("aqui tem aspa\","aqui tem uma barra invertida'tudo bem')

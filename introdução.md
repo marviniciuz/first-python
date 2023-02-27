@@ -124,3 +124,17 @@ print(nome1 + nome2 + 10)
 ```
 22
 ```
+
+### print
+```python
+print("aqui tem aspa\","aqui tem uma barra invertida'tudo bem')
+```
+
+usando a barra invertida e possivel escapar dos caracteres, sendo assim o ```aqui tem uma barra invertida``` não sera impresso.
+
+### Resultado:
+```
+aqui tem aspa tudo bem
+```
+
+so imprimiu o que esta dentro de ```""``` ```''``` aspas fechadas.
